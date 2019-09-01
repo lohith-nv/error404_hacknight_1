@@ -42,6 +42,7 @@ export class EmployeeListComponent implements OnInit {
   dataSource: MatTableDataSource<EmployeeData>;
   employees: EmployeeData[];
   errorMessage = '';
+  expandedEmployee: EmployeeData;
 
   @ViewChild(MatSort, {static: true}) sort: MatSort;
 

@@ -9,7 +9,7 @@ import { EmployeeData } from './employee-list/employee-list.component';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private employeeUrl = ' http://localhost:3000/employees';
+  private employeeUrl = 'https://my-json-server.typicode.com/lohith-nv/hacknights-db/employees';
 
   constructor(private http: HttpClient) { }
 

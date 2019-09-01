@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "dist\\mentalhealth",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7cb79af9-fede-44fb-979c-fb79561d1e0c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/error404-hacknights"
+}

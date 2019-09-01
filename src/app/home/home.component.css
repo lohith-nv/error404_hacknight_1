@@ -1,0 +1,8 @@
+.background_class {
+  background-image: url('../../images/2.jpeg');
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}

@@ -1,0 +1,47 @@
+#container {
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+tr.example-detail-row {
+  height: 0;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: #777;
+}
+
+tr.example-element-row:not(.example-expanded-row):active {
+  background: #efefef;
+}
+
+.example-element-row td {
+  border-bottom-width: 0;
+}
+
+.example-element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.tier {
+  font-family: monospace;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+#actions {
+  float: right;
+}

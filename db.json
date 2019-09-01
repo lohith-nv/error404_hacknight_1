@@ -1,0 +1,37 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "age": 34,
+      "name": "Manasvi Bhat K",
+      "gender": "Female",
+      "family_history": "False",
+      "work_interference": "True",
+      "remote_work": "True",
+      "treatment_criticality": 0.67,
+      "treatment": "True"
+    },
+    {
+      "id": 2,
+      "age": 33,
+      "name": "Lohith N V",
+      "gender": "Male",
+      "family_history": "True",
+      "work_interference": "False",
+      "remote_work": "False",
+      "treatment_criticality": 0.32,
+      "treatment": "False"
+    },
+    {
+      "id": 3,
+      "age": 38,
+      "name": "Yashashree S",
+      "gender": "Female",
+      "family_history": "True",
+      "work_interference": "True",
+      "remote_work": "True",
+      "treatment_criticality": 0.82,
+      "treatment": "True"
+    }
+  ]
+}

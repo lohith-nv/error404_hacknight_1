@@ -1,0 +1,3 @@
+curl -X POST \
+    -H 'Content-Type':'application/json' \
+    -d '{"data":[{"Age":37,"Gender":"Female","Country":"United States","self_employed":"NA","family_history":'false',"work_interfere":"Often","no_employees":"6-25","remote_work":'false',"tech_company":'true',"benefits":"Yes","care_options":"Not sure","wellness_program":"No","seek_help":"Yes","anonymity":"Yes","leave":"Somewhat easy","mental_health_consequence":"No","phys_health_consequence":"No","coworkers":"Some of them","supervisor":"Yes","mental_health_interview":"No","phys_health_interview":"Maybe","mental_vs_physical":"Yes","obs_consequence":'false'}]}'  http://7b32f60f-9eba-47c1-b623-b77da06e769e.southeastasia.azurecontainer.io/score

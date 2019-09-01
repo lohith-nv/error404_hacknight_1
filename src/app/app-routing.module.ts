@@ -7,8 +7,8 @@ import { ActivitiesComponent } from './activities/activities.component';
 import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
+  { path: '', component: HomeComponent },
   { path: 'approvals', component: EmployeeListComponent },
-  { path: 'home', component: HomeComponent },
   { path: 'analysis', component: AnalyticsComponent },
   { path: 'activities', component: ActivitiesComponent },
 

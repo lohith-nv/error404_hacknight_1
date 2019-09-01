@@ -43,5 +43,7 @@ tr.example-element-row:not(.example-expanded-row):active {
 }
 
 #actions {
-  float: right;
+margin-left: 70%;
+padding-left: 20px;
+padding-bottom: 10px;
 }
